@@ -1,6 +1,6 @@
 # FitnessTracker
 This is a Fitness Tracker system built in Java using Objective-Oriented Analysis and Design principles
-this follwoing system allows  a gymcenter to manage members,workouts and meals via a Command line interface.
+this following system allows a Gym/Personal Trainer to manage members,workouts and meals via a Command line interface.
 
 ## Main Features
 - Member management (create, update,view and delete members)
